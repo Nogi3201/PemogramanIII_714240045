@@ -1,0 +1,14 @@
+[
+  {
+    "nama": "Budi",
+    "usia": 21,
+    "status": false,
+    "keterangan": "Data telah diupdate"
+  },
+  {
+    "nama": "Siti",
+    "usia": 23,
+    "status": true,
+    "keterangan": "Data telah diupdate"
+  }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "nama" : "Budi",
+        "usia" : 20,
+        "status" : true
+    },
+    {
+        "nama" : "Siti",
+        "usia" : 22,
+        "status" : false
+    }
+]
